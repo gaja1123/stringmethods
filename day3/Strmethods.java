@@ -20,7 +20,7 @@ public class Strmethods {
 		
 		
 		
-		System.out.println (val1+ " " + val+ " "+ val2 +" " +val3 + " "+ val4+ " " +val5 );
+		System.out.println (val1+ " " + val+ " "+ val2 +" " +val3 );
 	}
 	
 

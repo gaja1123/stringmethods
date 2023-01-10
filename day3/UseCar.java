@@ -34,7 +34,7 @@ public class UseCar {
 	
 	System.out.println(car1.brand + " " + car1.price + " "+ car1.topspeed+" "+car1.isGear);
 	System.out.println(car2.brand + " " + car2.price + " "+ car2.topspeed+" "+car2.isGear);
-	System.out.println(car3.brand + " " + car3.price + " "+ car3.topspeed+" "+car3.isGear);
+	System.out.println(car3.brand + " " + car3.price)
 	
 	
 	
